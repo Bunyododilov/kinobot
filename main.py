@@ -19,7 +19,7 @@ def keep_alive():
     t = Thread(target=run)
     t.start()
 
-bot = Bot(token="7874277238:AAFMjafESzwtn7eqGdreXvCLiiwUiUy_8Mk")
+bot = Bot(token="")
 dp = Dispatcher()
 
 videos = {
