@@ -55,7 +55,6 @@ videos = {
     "78": "BAACAgEAAxkBAANEaHM-RBJ2frC0s2AK2wABlP3hpWWzAAJnAQACwRhoRgrUXlERWIhENgQ",
     "79": "BAACAgEAAxkBAANGaHM-fi7-0YUufcnZP1sU0UESovMAAsMFAAKv97BHrZvgDpCoOus2BA",
     "80": "BAACAgQAAxkBAANIaHM-qBgt2kx9Pp8kUbK-hjQH25UAAl0SAAIiXWhRUqz-DbfZe3o2BA"
-    
 }
 
 required_channels = ["@TELEFON_BOZOR_24_UZB", "@AVTO_BOZOR_24_UZB"]
